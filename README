@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/andromad1/travis-broken-example.svg?branch=master)](https://travis-ci.org/andromad1/travis-broken-example)
+image:https://travis-ci.org/andromad1/travis-broken-example.svg?branch=master["Build Status", link="https://travis-ci.org/andromad1/travis-broken-example"]
